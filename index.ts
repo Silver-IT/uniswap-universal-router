@@ -21,6 +21,7 @@ import {
   TICK_SPACINGS,
   Trade as TradeV3,
   Route as RouteV3,
+  SwapQuoter,
 } from "@uniswap/v3-sdk";
 import {
   MixedRouteTrade,
